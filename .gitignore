@@ -1,0 +1,7 @@
+*.aliases
+*.lvlps
+*.tmp
+*.~vsd*
+~$*.doc*
+~$*.ppt*
+~$*.xls*
