@@ -66,6 +66,7 @@
 		<Item Name="Script Menu from Folder_Do.vi" Type="VI" URL="../Private/Script Menu from Folder_Do.vi"/>
 		<Item Name="Split String.vi" Type="VI" URL="../Private/Split String.vi"/>
 	</Item>
+	<Item Name="Create Menu Folders for Folder Hierarchy.vi" Type="VI" URL="../Create Menu Folders for Folder Hierarchy.vi"/>
 	<Item Name="Create Menu from Folder.vi" Type="VI" URL="../Create Menu from Folder.vi"/>
 	<Item Name="Refresh Palettes.vi" Type="VI" URL="../Refresh Palettes.vi"/>
 </Library>
