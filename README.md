@@ -1,9 +1,19 @@
 # LV32.2019..AutoMenuCreator
-Scan a folder and script menu files for the folder.
+Scan a folder and Create menu files for the folder. Can also handle entire folder hierarchies using targets such as a .git folder to detect which folders to handle.
+A config file is generated in each target folder that configures the menu generation for that folder.
+
+Supports exclusions, inclusions and filters of various types.
+Can assign icons to folders by name and path matching.
 
 # Test
 To test the functionality of this repository:
-Not possible yet
+1) Open: _Test\PPL Test.lvproj
+2) Open: Test_Single folder menu refresh.vi
+3) Set target folder and run the VI
+4) Open: [target folder]\AutoMenu Config.ini
+5) Configure to desired settings and setup folder icons
+6) Rerun Test_Single folder menu refresh.vi to apply changes
+7) Copy or link the 'Menu Folder' (default '_Menu') into desired location in [Labview]\Menus hierarchy or add it manually.
 
 # Contribute:
 Contact me at henrikdue at yahoo.dk.

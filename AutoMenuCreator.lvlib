@@ -9,6 +9,10 @@
 	<Property Name="Database Path" Type="Str">C:\Program Files (x86)\National Instruments\LabVIEW 2019\data</Property>
 	<Property Name="Enable Alarms Logging" Type="Bool">true</Property>
 	<Property Name="Enable Data Logging" Type="Bool">true</Property>
+	<Property Name="NI.Lib.Description" Type="Str">Contains VIs that can be used to:
+Scan a folder and Create menu files for the folder. 
+Scan an entire folder hierarchy using targets such as a .git folder to detect which folders to handle.</Property>
+	<Property Name="NI.Lib.HelpPath" Type="Str"></Property>
 	<Property Name="NI.Lib.Icon" Type="Bin">'1#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!*&lt;!!!*Q(C=\:5^=NN!$%9`:F+EV1U]+N.Z=!76;&gt;7HQB85JF3&lt;*G.UM3&gt;O7,JQIRNY=!6&gt;16&gt;A(F=1)TH7K,%H+&lt;QL5/3X#_$N(SGV]EH[K/&amp;3E59\6WA&lt;?ZR)@\@P9QTV@/RQ]+`,]/&gt;W;D]Y$--5:XDGL\/%_XTH2T!=Z4Q%@Y&amp;`/+EPNE`$?.:_=8L@SXPZJ_8&lt;R5X[ZHOW;S=&amp;3SQQRWR`K")^U2-^U2-^U1-^U!-^U!-^U"X&gt;U2X&gt;U2X&gt;U1X&gt;U!X&gt;U!X&gt;$E=&lt;8?B#F\5DH320%C6"EQ"*:V#58"+?B#@B38BY6-+4]#1]#5`#1R=F0!F0QJ0Q*$SY+?&amp;*?"+?B#@B)61DS6&lt;2Y5FY#+_!*_!*?!+?A)?5#HA#A#":%$A)!I;#RO!GY!FY!BZO&amp;@!%0!&amp;0Q"0QU+S!*_!*?!+?A!?8.CP2;-;+$A^BZ0!Y0![0Q_0Q%&amp;I/D]0D]$A]$A`JZ0!Y0![%E^!*$I)=*[?$]_$Q/$T]S?&amp;R?"Q?B]@BI;GNE,?:'7H'CA[0Q70Q'$Q'D]&amp;$#"E]"I`"9`!90)36Q70Q'$Q'D]&amp;$+BE]"I`"9Y!935EP)ZDB;(1S")/(8^MNVF9J'IGVKPK;N)WKWI#KD;8;-+K.I&amp;JAV=+J&amp;E1VU;I*6%W-;M#KA;A!69F6!65&gt;N?/[R4:9D[WR&amp;&lt;&lt;%&amp;NA=GYWOL^RRN^NJO^VKM^GI\XONVWON6CMNFUMN&amp;AP.ZX0.:L0J.8"&amp;H6Y)_`@3$@?`&gt;.8&gt;@H`I\D`@&gt;X(^I\N$?]4[,T_\ORZ\_NK^U&lt;@U0XAX[I//YT*(PQ'PX7W3!!!!!!</Property>
 	<Property Name="NI.Lib.SourceVersion" Type="Int">419463168</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
