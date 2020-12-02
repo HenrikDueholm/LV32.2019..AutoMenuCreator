@@ -69,7 +69,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{76348FB6-CF33-4E33-AA86-11BCFF4AF7AF}</Property>
-				<Property Name="Bld_version.build" Type="Int">2</Property>
+				<Property Name="Bld_version.build" Type="Int">3</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Menu.AutoMenuCreator.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../Build/Menu.AutoMenuCreator.lvlibp</Property>
