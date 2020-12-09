@@ -4,6 +4,10 @@ A config file is generated in each target folder that configures the menu genera
 
 Supports exclusions, inclusions and filters of various types.
 Can assign icons to folders by name and path matching.
+Can setup default configurations for palettes and files and individual configurations for palettes and files when there are deviations from the default.
+
+Examine the data\Menu Config Template.ini to see how to do the configurations. 
+Always use AutomMenu on a folder the first time to create the config file, then make changes and run it again.
 
 # Test
 To test the functionality of this repository:
