@@ -41,11 +41,10 @@ Scan an entire folder hierarchy using targets such as a .git folder to detect wh
 		<Item Name="Load Config.vi" Type="VI" URL="../Config/Load Config.vi"/>
 		<Item Name="Load Config_File Data.vi" Type="VI" URL="../Config/Load Config_File Data.vi"/>
 		<Item Name="Load Config_File Filter.vi" Type="VI" URL="../Config/Load Config_File Filter.vi"/>
-		<Item Name="Load Config_File Name Edit.vi" Type="VI" URL="../Config/Load Config_File Name Edit.vi"/>
 		<Item Name="Load Config_Folder Filter.vi" Type="VI" URL="../Config/Load Config_Folder Filter.vi"/>
 		<Item Name="Load Config_Folder Icon Map.vi" Type="VI" URL="../Config/Load Config_Folder Icon Map.vi"/>
-		<Item Name="Load Config_Folder Name Edit.vi" Type="VI" URL="../Config/Load Config_Folder Name Edit.vi"/>
 		<Item Name="Load Config_Main.vi" Type="VI" URL="../Config/Load Config_Main.vi"/>
+		<Item Name="Load Config_Name Edits.vi" Type="VI" URL="../Config/Load Config_Name Edits.vi"/>
 		<Item Name="Load Config_Override Sections.vi" Type="VI" URL="../Config/Load Config_Override Sections.vi"/>
 		<Item Name="Load Config_Palette Data.vi" Type="VI" URL="../Config/Load Config_Palette Data.vi"/>
 	</Item>
@@ -53,11 +52,10 @@ Scan an entire folder hierarchy using targets such as a .git folder to detect wh
 		<Item Name="Ctl_Config.ctl" Type="VI" URL="../Ctl/Ctl_Config.ctl"/>
 		<Item Name="Ctl_Config_File Data.ctl" Type="VI" URL="../Ctl/Ctl_Config_File Data.ctl"/>
 		<Item Name="Ctl_Config_File Filter.ctl" Type="VI" URL="../Ctl/Ctl_Config_File Filter.ctl"/>
-		<Item Name="Ctl_Config_File Name Edit.ctl" Type="VI" URL="../Ctl/Ctl_Config_File Name Edit.ctl"/>
 		<Item Name="Ctl_Config_Folder Filter.ctl" Type="VI" URL="../Ctl/Ctl_Config_Folder Filter.ctl"/>
 		<Item Name="Ctl_Config_Folder Icon Map.ctl" Type="VI" URL="../Ctl/Ctl_Config_Folder Icon Map.ctl"/>
-		<Item Name="Ctl_Config_Folder Name Edit.ctl" Type="VI" URL="../Ctl/Ctl_Config_Folder Name Edit.ctl"/>
 		<Item Name="Ctl_Config_Main.ctl" Type="VI" URL="../Ctl/Ctl_Config_Main.ctl"/>
+		<Item Name="Ctl_Config_Name Edit.ctl" Type="VI" URL="../Ctl/Ctl_Config_Name Edit.ctl"/>
 		<Item Name="Ctl_Config_Palette Data.ctl" Type="VI" URL="../Ctl/Ctl_Config_Palette Data.ctl"/>
 		<Item Name="Ctl_Run Data.ctl" Type="VI" URL="../Ctl/Ctl_Run Data.ctl"/>
 	</Item>
@@ -73,11 +71,11 @@ Scan an entire folder hierarchy using targets such as a .git folder to detect wh
 		<Item Name="File_Create Menu Element.vi" Type="VI" URL="../Private/File_Create Menu Element.vi"/>
 		<Item Name="Folder_Build Valid Paths.vi" Type="VI" URL="../Private/Folder_Build Valid Paths.vi"/>
 		<Item Name="Folder_Create Menu Element.vi" Type="VI" URL="../Private/Folder_Create Menu Element.vi"/>
+		<Item Name="Modify Name.vi" Type="VI" URL="../Private/Modify Name.vi"/>
 		<Item Name="Palette_Build Data.vi" Type="VI" URL="../Private/Palette_Build Data.vi"/>
 		<Item Name="Path_Check if Relative.vi" Type="VI" URL="../Private/Path_Check if Relative.vi"/>
 		<Item Name="Relativize Paths.vi" Type="VI" URL="../Private/Relativize Paths.vi"/>
 		<Item Name="Script Menu from Folder_Do.vi" Type="VI" URL="../Private/Script Menu from Folder_Do.vi"/>
-		<Item Name="Split String.vi" Type="VI" URL="../Private/Split String.vi"/>
 	</Item>
 	<Item Name="Utility" Type="Folder">
 		<Item Name="Check Folder for AutoMenu Usage.vi" Type="VI" URL="../Utility/Check Folder for AutoMenu Usage.vi"/>
