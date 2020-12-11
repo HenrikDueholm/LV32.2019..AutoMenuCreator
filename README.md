@@ -9,6 +9,9 @@ Can setup default configurations for palettes and files and individual configura
 Examine the data\Menu Config Template.ini to see how to do the configurations. 
 Always use AutomMenu on a folder the first time to create the config file, then make changes and run it again.
 
+Using the section "Main" and key "Relative Link Target" link and unlink bat files will be created in the menu folder that can link to a target relative folder inside of the '<Labview>\menus\Categories'-folder.
+The feature is disabled if an empty key is provided.
+
 # Test
 To test the functionality of this repository:
 1) Open: _Test\PPL Test.lvproj
