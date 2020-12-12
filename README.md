@@ -10,7 +10,7 @@ Examine the data\Menu Config Template.ini to see how to do the configurations.
 Always use AutomMenu on a folder the first time to create the config file, then make changes and run it again.
 
 Using the section "Main" and key "Relative Link Target" link and unlink bat files will be created in the menu folder that can link to a target relative folder inside of the '<Labview>\menus\Categories'-folder.
-The feature is disabled if an empty key is provided.
+The feature is disabled if an empty key is provided. The "Auto Link"-key can be used to automatically refresh linked palette files on rebuild using the created bat-files.
 
 # Test
 To test the functionality of this repository:

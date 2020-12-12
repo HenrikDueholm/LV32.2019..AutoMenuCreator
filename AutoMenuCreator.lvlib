@@ -68,10 +68,13 @@ Scan an entire folder hierarchy using targets such as a .git folder to detect wh
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Create File.vi" Type="VI" URL="../Private/Create File.vi"/>
 		<Item Name="File_Build Valid Paths.vi" Type="VI" URL="../Private/File_Build Valid Paths.vi"/>
-		<Item Name="File_Create Linker files.vi" Type="VI" URL="../Private/File_Create Linker files.vi"/>
 		<Item Name="File_Create Menu Element.vi" Type="VI" URL="../Private/File_Create Menu Element.vi"/>
 		<Item Name="Folder_Build Valid Paths.vi" Type="VI" URL="../Private/Folder_Build Valid Paths.vi"/>
 		<Item Name="Folder_Create Menu Element.vi" Type="VI" URL="../Private/Folder_Create Menu Element.vi"/>
+		<Item Name="Link_Call Link.vi" Type="VI" URL="../Private/Link_Call Link.vi"/>
+		<Item Name="Link_Call Unlink.vi" Type="VI" URL="../Private/Link_Call Unlink.vi"/>
+		<Item Name="Link_Create Linker files.vi" Type="VI" URL="../Private/Link_Create Linker files.vi"/>
+		<Item Name="Link_File Names.vi" Type="VI" URL="../Private/Link_File Names.vi"/>
 		<Item Name="Modify Name.vi" Type="VI" URL="../Private/Modify Name.vi"/>
 		<Item Name="Palette_Build Data.vi" Type="VI" URL="../Private/Palette_Build Data.vi"/>
 		<Item Name="Path_Check if Relative.vi" Type="VI" URL="../Private/Path_Check if Relative.vi"/>
