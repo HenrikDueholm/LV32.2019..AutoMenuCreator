@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="19008000">
+<Project Type="Project" LVVersion="20008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="NI.SortType" Type="Int">3</Property>
@@ -103,7 +103,7 @@
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_modifyLibraryFile" Type="Bool">true</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{76348FB6-CF33-4E33-AA86-11BCFF4AF7AF}</Property>
-				<Property Name="Bld_version.build" Type="Int">7</Property>
+				<Property Name="Bld_version.build" Type="Int">8</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">Menu.AutoMenuCreator.lvlibp</Property>
 				<Property Name="Destination[0].path" Type="Path">../Build/Menu.AutoMenuCreator.lvlibp</Property>
@@ -116,7 +116,7 @@
 				<Property Name="DestinationCount" Type="Int">2</Property>
 				<Property Name="PackedLib_callersAdapt" Type="Bool">true</Property>
 				<Property Name="Source[0].Container.applyPrefix" Type="Bool">true</Property>
-				<Property Name="Source[0].itemID" Type="Str">{CF6FA4AE-6685-421D-AB2E-04FDF2DA446F}</Property>
+				<Property Name="Source[0].itemID" Type="Str">{A34020D6-A7D3-424F-B32A-2059C910278A}</Property>
 				<Property Name="Source[0].newName" Type="Str">Menu.AutoMenuCreator_</Property>
 				<Property Name="Source[0].type" Type="Str">Container</Property>
 				<Property Name="Source[1].destinationIndex" Type="Int">0</Property>
@@ -134,11 +134,10 @@
 				<Property Name="Source[2].sourceInclusion" Type="Str">Include</Property>
 				<Property Name="Source[2].type" Type="Str">Container</Property>
 				<Property Name="SourceCount" Type="Int">3</Property>
-				<Property Name="TgtF_companyName" Type="Str">Danfoss</Property>
 				<Property Name="TgtF_enableDebugging" Type="Bool">true</Property>
 				<Property Name="TgtF_fileDescription" Type="Str">Menu.AutoMenuCreator can be used to create mnu files for targetted folders.</Property>
 				<Property Name="TgtF_internalName" Type="Str">Menu.AutoMenuCreator</Property>
-				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2020 Danfoss</Property>
+				<Property Name="TgtF_legalCopyright" Type="Str">Copyright © 2021 HenrikDueholm</Property>
 				<Property Name="TgtF_productName" Type="Str">Menu.AutoMenuCreator</Property>
 				<Property Name="TgtF_targetfileGUID" Type="Str">{5707219A-2415-445A-B568-10DA96B88000}</Property>
 				<Property Name="TgtF_targetfileName" Type="Str">Menu.AutoMenuCreator.lvlibp</Property>
